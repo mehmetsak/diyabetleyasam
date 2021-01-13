@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882235244053",
+    "project_id": "diyabetyasams",
+    "storage_bucket": "diyabetyasams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882235244053:android:85314d5048e5a08507581c",
+        "android_client_info": {
+          "package_name": "com.mehmetatasayin.diyabetle_yasam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882235244053-mjdflqric1hpcevlnmvp7va21psp37dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ELwuVtCMjMQ6kh4p3ZslcIFi1tLm9Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882235244053-mjdflqric1hpcevlnmvp7va21psp37dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
